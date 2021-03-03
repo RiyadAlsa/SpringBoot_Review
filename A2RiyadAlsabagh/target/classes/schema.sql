@@ -1,8 +1,0 @@
-CREATE TABLE REVIEW(
-	id LONG PRIMARY KEY AUTO_INCREMENT,
-	resName VARCHAR(255),
-	resReview VARCHAR(1000),
-	showDay DATE,
-	showTime TIME(7)
-);
-
